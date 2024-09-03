@@ -1,0 +1,7 @@
+C:\Users\lenik\source\repos\Elsib\Elsib\bin\Debug\Elsib.exe.config
+C:\Users\lenik\source\repos\Elsib\Elsib\bin\Debug\Elsib.exe
+C:\Users\lenik\source\repos\Elsib\Elsib\bin\Debug\Elsib.pdb
+C:\Users\lenik\source\repos\Elsib\Elsib\obj\Debug\Elsib.csproj.AssemblyReference.cache
+C:\Users\lenik\source\repos\Elsib\Elsib\obj\Debug\Elsib.csproj.CoreCompileInputs.cache
+C:\Users\lenik\source\repos\Elsib\Elsib\obj\Debug\Elsib.exe
+C:\Users\lenik\source\repos\Elsib\Elsib\obj\Debug\Elsib.pdb
